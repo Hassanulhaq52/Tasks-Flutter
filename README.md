@@ -1,6 +1,8 @@
 # tasks_flutter
 
-This Project Consist of the Tasks which are done Throughout the Course
+This Project Consist of the Tasks which are done Throughout the Course.
+
+![task](https://user-images.githubusercontent.com/81625175/187413284-f4fae967-a6c3-428c-9cce-f34ea1500cac.jpeg)
 
 ## Getting Started
 
